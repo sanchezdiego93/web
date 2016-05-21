@@ -1,0 +1,24 @@
+body {
+    padding-top: 30px;
+    width: 100%;
+}
+
+.navbar-default {
+    padding-left: 5%;
+}
+
+.navbar-right {
+    padding-right: 10%;
+}
+
+.brand{
+    color: #0f0f0f !important;
+}
+
+/*.navbar-default > li {*/
+    /*border-bottom: 5px white;*/
+/*}*/
+
+/*.navbar-default > li:hover {*/
+    /*border-bottom-color: black;*/
+/*}*/
